@@ -5,13 +5,17 @@
 }
 
 body {
-  font-family: Arial, sans-serif;
+  font-family: 'Arial', sans-serif;
+  background: linear-gradient(135deg, #f0f4ff 0%, #e6efff 100%);
 }
 
 .app {
-  max-width: 1200px;
+  max-width: 1500px;
   margin: 0 auto;
   padding: 20px;
+  background: #ffffff;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
 }
 
 header {
@@ -20,17 +24,19 @@ header {
 }
 
 h1 {
-  font-size: 2.5rem;
-  color: #333;
+  font-size: 2.8rem;
+  color: #1a3c87;
+  font-weight: 700;
 }
 
 p {
-  font-size: 1.2rem;
-  color: #666;
+  font-size: 1.3rem;
+  color: #4a5568;
 }
 
 .card-grid {
-  display: grid;
-  grid-template-columns: 1fr; /* Single column for now */
-  gap: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px;
+  justify-content: space-around;
 }

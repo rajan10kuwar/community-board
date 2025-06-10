@@ -4,7 +4,7 @@ Submitted by: **Rajan Kuwar**
 
 This web app: **A community board displaying curated software engineering resources, including tutorials, tools, and communities to help developers learn and grow.**
 
-Time spent: **** hours spent in total
+Time spent: **4** hours spent in total
 
 ## Required Features
 
@@ -12,22 +12,23 @@ The following **required** functionality is completed:
 
 - [X] **The app has a cohesive, unique theme for events or resources relevant to a specific community**
   - [X] Header/title describing the theme is displayed
-- [ ] **At least 10 unique events or resources are displayed in a responsive card format**
-  - [ ] There are at least 10 cards displayed 
-  - [ ] The cards should be displayed in an organized format (ex. a grid, or in one line)
-  - [ ] Each card should include some information about the event or resource
+- [X] **At least 10 unique events or resources are displayed in a responsive card format**
+  - [X] There are at least 10 cards displayed 
+  - [X] The cards should be displayed in an organized format (ex. a grid, or in one line)
+  - [X] Each card should include some information about the event or resource
 
 
 The following **optional** features are implemented:
 
-- [ ] Buttons or links to a related resources are on each card component
-  - [ ] All cards have buttons or links in addition to text
-- [ ] The site is responsive for both desktop and mobile formats
-  - [ ] Web app is shown in a mobile format
+- [X] Buttons or links to a related resources are on each card component
+  - [X] All cards have buttons or links in addition to text
+- [X] The site is responsive for both desktop and mobile formats
+  - [X] Web app is shown in a mobile format
 
 The following **additional** features are implemented:
 
-* [ ] List anything else that you added to improve the site's functionality!
+* [X] List anything else that you added to improve the site's functionality!
+Hover effects on cards for better interactivity
 
 ## Video Walkthrough
 
@@ -44,11 +45,12 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+- Ensuring the grid layout was responsive across all screen sizes.
+- Managing multiple commits for incremental feature implementation.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2025] [Rajan Kuwar]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
