@@ -1,17 +1,17 @@
-# Web Development Project 1 - *Name of App Here*
+# Web Development Project 1 - *Web Development Project 1 - Software Engineering Resource Board*
 
-Submitted by: **Your Name Here**
+Submitted by: **Rajan Kuwar**
 
-This web app: **insert description**
+This web app: **A community board displaying curated software engineering resources, including tutorials, tools, and communities to help developers learn and grow.**
 
-Time spent: **X** hours spent in total
+Time spent: **** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] **The app has a cohesive, unique theme for events or resources relevant to a specific community**
-  - [ ] Header/title describing the theme is displayed
+- [X] **The app has a cohesive, unique theme for events or resources relevant to a specific community**
+  - [X] Header/title describing the theme is displayed
 - [ ] **At least 10 unique events or resources are displayed in a responsive card format**
   - [ ] There are at least 10 cards displayed 
   - [ ] The cards should be displayed in an organized format (ex. a grid, or in one line)

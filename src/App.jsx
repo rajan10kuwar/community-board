@@ -1,5 +1,6 @@
 import './App.css';
 import Card from './components/Card';
+import resources from './data/resources';
 
 function App() {
   return (
@@ -9,11 +10,14 @@ function App() {
         <p>Explore tutorials, tools, and communities to level up your coding skills!</p>
       </header>
       <div className="card-grid">
-        <Card
-          title="freeCodeCamp"
-          description="Learn to code for free with interactive tutorials."
-          link="https://www.freecodecamp.org/"
-        />
+        {resources.map((resource, index) => (
+          <Card
+            key={index}
+            title={resource.title}
+            description={resource.description}
+            link={resource.link}
+          />
+        ))}
       </div>
     </div>
   );
