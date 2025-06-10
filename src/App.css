@@ -28,3 +28,9 @@ p {
   font-size: 1.2rem;
   color: #666;
 }
+
+.card-grid {
+  display: grid;
+  grid-template-columns: 1fr; /* Single column for now */
+  gap: 20px;
+}
