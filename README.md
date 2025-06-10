@@ -34,7 +34,7 @@ Hover effects on cards for better interactivity
 
 Here's a walkthrough of implemented required features:
 
-<img src='walkthrough.gif' title='Video Walkthrough' alt='Video Walkthrough' style='max-width: 100%;' />
+<img src='Walkthrough.gif' title='Video Walkthrough' alt='Video Walkthrough' style='max-width: 100%;' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LiceCap  
